@@ -76,6 +76,7 @@ h3 {
 /* Place the timelime to the left */
   .timeline::after {
     left: 31px;
+	  }
   }
   
   /* Full-width containers */
@@ -94,4 +95,3 @@ h3 {
   .timeline-left::after, .timeline-right::after {
     left: 17px;
   }
-}
